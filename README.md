@@ -113,7 +113,7 @@ If this benchmark helps your research or production work, please star the reposi
   author = {Your Name},
   title  = {Time Series Forecasting Benchmark: Foundation Models vs AutoML vs Tabular ML},
   year   = {2025},
-  url    = {https://github.com/<your-username>/timeseries-forecasting-benchmark}
+  url    = {https://github.com/franciscogamarra10/timeseries-forecasting-benchmark}
 }
 ```
 
@@ -122,4 +122,3 @@ If this benchmark helps your research or production work, please star the reposi
 ## License
 
 MIT – use it, fork it, ship it.
-""")
