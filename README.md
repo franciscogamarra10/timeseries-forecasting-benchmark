@@ -60,7 +60,7 @@ Three-panel diagnostic plots (test zoom · full context · bias scatter) are ava
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/timeseries-forecasting-benchmark.git
+git clone https://github.com/franciscogamarra10/timeseries-forecasting-benchmark.git
 cd timeseries-forecasting-benchmark
 
 # 2. Create environment (optional but recommended)
